@@ -58,11 +58,11 @@ After DevBootcamp and before the summer, I'll have just shy of 9 months of direc
 Let me participate in your process of creating *meaningful* things. Let me help you and your team make connections with your clients, and also with each other.
 
 You can read more about me in the following links:
-* [What's on the Bookshelf](bookshelf.md)
-* [Relevant Education](classes.md)
-* [People I Follow](following.md)
-* [What I'm Listening To](podcasts.md)
-* [Hobbies I Like](hobbies.md)
+* [What's on the Bookshelf](../bookshelf.md)
+* [Relevant Education](../classes.md)
+* [People I Follow](../following.md)
+* [What I'm Listening To](../podcasts.md)
+* [Hobbies I Like](../hobbies.md)
 
 [![email]][4] [![twitter]][1]  [![github]][3]  [![linkedin]][2]
 
