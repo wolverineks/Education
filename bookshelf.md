@@ -5,11 +5,13 @@
 * [Effective Ruby](http://www.amazon.com/Effective-Ruby-Specific-Software-Development/dp/0133846970/ref=sr_1_1?s=books&ie=UTF8&qid=1456249393&sr=1-1&keywords=effective+ruby) - Peter J. Jones
 * [The Rails 4 Way](http://www.amazon.com/Rails-Way-Addison-Wesley-Professional-Ruby/dp/0321944275/ref=sr_1_1?s=books&ie=UTF8&qid=1456249160&sr=1-1&keywords=the+rails+4+way) - Obie Fernandez, Kevin Faustino
 * [Don't Make Me Think](http://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=tmm_pap_title_0?_encoding=UTF8&qid=&sr=) - Steve Krug
+* [Remote: Office Not Required](http://www.amazon.com/Remote-Office-Required-Jason-Fried/dp/0804137501/ref=sr_1_1?s=books&ie=UTF8&qid=1456338239&sr=1-1&keywords=remote+office+not+required) - Jason Fried, David Heinemeier Hansson
+* [Living Non-Violent Communication](http://www.amazon.com/Living-Nonviolent-Communication-Communicate-Skillfully-ebook/dp/B00805DNUQ/ref=dp_kinw_strp_1) - Marshall Rosenburg
 
 ## Current Books
 
-* [Living Non-Violent Communication](http://www.amazon.com/Living-Nonviolent-Communication-Communicate-Skillfully-ebook/dp/B00805DNUQ/ref=dp_kinw_strp_1) - Marshall Rosenburg
-* [Remote: Office Not Required](http://www.amazon.com/Remote-Office-Required-Jason-Fried/dp/0804137501/ref=sr_1_1?s=books&ie=UTF8&qid=1456338239&sr=1-1&keywords=remote+office+not+required) - Jason Fried, David Heinemeier Hansson
+* [Programming Elixir](https://www.amazon.com/Programming-Elixir-1-2-Functional-Concurrent/dp/1680501666/ref=sr_1_1?ie=UTF8) - Dave Thmoas
+* [Programming Phoenix](https://www.amazon.com/Programming-Phoenix-Productive-Reliable-Fast/dp/1680501453) - Chris McCord, Bruce Tate, Jose Valim
 * [Well-Grounded Rubyist](http://www.amazon.com/The-Well-Grounded-Rubyist-David-Black/dp/1933988657) - David A. Black
 * [Seven Languages in Seven Weeks](http://www.amazon.com/Seven-Languages-Weeks-Programming-Programmers/dp/193435659X/ref=sr_1_1?s=books&ie=UTF8&qid=1456249310&sr=1-1&keywords=seven+languages+in+seven+weeks) - Bruce A. Tate
 * [Practical Object Oriented Design in Ruby](http://www.amazon.com/Practical-Object-Oriented-Design-Ruby-Addison-Wesley/dp/0321721330/ref=asap_bc?ie=UTF8) - Sandi Metz
